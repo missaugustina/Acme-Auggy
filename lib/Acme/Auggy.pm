@@ -10,7 +10,7 @@ sub say_auggy {
 
 # ABSTRACT: Just a module for my talk
 
-=head SYNOPSIS
+=head1 SYNOPSIS
 
 This module is for demonstration purposes only.
 
