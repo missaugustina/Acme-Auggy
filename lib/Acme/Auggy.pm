@@ -2,8 +2,8 @@ use strict;
 use warnings;
 package Acme::Auggy;
 
-sub print_auggy {
-    print "Auggy!\n";
+sub say_auggy {
+    return "Auggy!";
 }
 
 1;
