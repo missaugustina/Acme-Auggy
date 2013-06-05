@@ -14,7 +14,7 @@ sub say_auggy {
 
 This module is for demonstration purposes only.
 
-=method print_auggy
+=method say_auggy
 
-Just prints my name ;)
+Just returns my name ;)
 
